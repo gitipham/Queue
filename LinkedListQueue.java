@@ -1,7 +1,7 @@
 /** Custom LinkListQueue
  *  This program represents the data structure for holding the Customer objects.
  *  It will create a Queue, add Customer objects and/ or remove them from the queue.
- * @author: Ivy Pham
+ * @author: Ivy P.
  * @version: July 10, 2020
  */
 
