@@ -5,7 +5,6 @@ Summary: Creates a Customer object to be used in the line queue. Holds the servi
 Functionality:
     Constructor: Random ServiceTime (1-5)
     Public Methods: getServiceTime, newMinute
-    *** DO NOT MODIFY THIS PROGRAM ***
 */
 
 import java.util.Random;
