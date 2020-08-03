@@ -23,5 +23,5 @@ During execution, your program should output the following information:
 •	At the end of each iteration (minute), output, “---------------------------------------------------“  to visually identify the passing of time.
 
 When your simulation ends, your program should also output the following information:
-•	Total number of customers serviced
-•	Maximum line length during the simulation
+•	Total number of customers serviced.
+•	Maximum line length during the simulation.
